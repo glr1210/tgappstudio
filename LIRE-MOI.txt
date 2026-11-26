@@ -1,0 +1,10 @@
+TG App Studio — fichiers du site web
+
+Le dossier contient les fichiers statiques du site et peut être publié sur un hébergement web statique.
+Ouvre index.html pour voir le site localement. Pour le mettre en ligne, téléverse le contenu de ce dossier sur ton hébergeur.
+
+Le bouton « Gérer mes apps » ouvre l’espace de gestion en ligne :
+https://fluxiptv.tayfun-glr.chatgpt.site/gestion
+
+Connecte-toi avec le compte propriétaire du site pour ajouter, modifier ou publier tes fiches.
+Le lien App Store de Flux IPTV est encore indiqué comme bientôt disponible dans cette version.
